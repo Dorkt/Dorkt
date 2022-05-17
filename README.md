@@ -26,8 +26,3 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Gabriel%20Duque-blue?logo=Linkedin&logoColor=blue&labelColor=grey)](https://www.linkedin.com/in/gabriel-duque-aba0891a3/)
 [![Gmail](https://img.shields.io/badge/Gmail-gabrieldorkt@gmail.com-blue?logo=Gmail&logoColor=Red&labelColor=grey)](mailto:gabrieldorkt@gmail.com)
-
-
-<h1>
-<img align="center" style="border-radius: 5px" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=Dorkt&theme=dark&show_icons=true&hide_border=true"/>
-<img align="center" style="border-radius: 5px" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dorkt&layout=compact&theme=dark&hide_border=true"/></h1>
