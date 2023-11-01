@@ -2,7 +2,7 @@
 
 <p align="center">Hi, I'm Gabriel Duque is a pleasure to see you here, make yourself comfortable!</p>
 
-<p align = "center"> :heavy_check_mark: I'm a Backend Developer at Nutes and Enthusiast of web development technologies!</p>
+<p align = "center"> :heavy_check_mark: I'm a Backend Developer at ProFusion and Enthusiast of web development technologies!</p>
 
 
 
